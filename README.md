@@ -21,7 +21,7 @@ A simple Python console-based Expense Tracker developed using Python. This proje
 ```text
 expense-tracker-python/
 │
-├── expense_tracker.py
+├── Expense Tracker.py
 ├── README.md
 └── LICENSE
 ```
@@ -38,12 +38,12 @@ expense-tracker-python/
 ==============================
 WELCOME TO EXPENSE TRACKER
 ==============================
-
 ----------MENU----------
 1. Add Expense
 2. View Expense
 3. View Total Expense
 4. Exit
+Enter your choice:
 ```
 
 ## Concepts Used
@@ -69,6 +69,3 @@ This project helped in understanding:
 - Menu-Driven Programming
 - Python Fundamentals
 - Real-World Problem Solving
-
-## Author
-Aarya Kadam
